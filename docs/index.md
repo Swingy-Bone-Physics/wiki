@@ -1,4 +1,4 @@
-# Swingy Bone Addon
+# Swingy Bone Physics Addon
 
 An easy-to-use, artist friendly bone chain physics solver. 
 
