@@ -8,7 +8,7 @@ theme:
     - search.suggest
     - navigation.sections
     - navigation.top
-  logo: Resources/Images/logo.png  
+  logo: Resources/Images/Logo.png  
   icon:
     admonition:
       note: octicons/tag-16
