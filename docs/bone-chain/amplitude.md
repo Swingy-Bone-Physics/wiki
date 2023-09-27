@@ -3,13 +3,13 @@ The amplitude feature allows you to restrict the maximum rotation of a bone. It 
 To use this feature, click on "Use Amplitude". It will enable it for all the currently selected bones.
 
 <figure markdown>
-  ![Video](../Resources/Vids/gif6.gif)
+  ![Video](../Resources/Vids/AmplitudeLimit.gif)
 </figure>
 
 There are currently two constraint types available : Conic and Ellipsoidal. They offer different profiles to have better control on the simulated motion and avoid undesired behaviors. The bone's rotation will stay constrained into the area represented by these shapes.
 
 <figure markdown>
-  ![Video](../Resources/Vids/gif7.gif)
+  ![Video](../Resources/Vids/AmplitudeLimitShape.gif)
 </figure>
 
 !!! info
@@ -17,13 +17,13 @@ There are currently two constraint types available : Conic and Ellipsoidal. They
     The original orientation of the constrained area will be based on the bone's rest pose (the one in Edit Mode). If it's changed after the activation, disable then re-enable the amplitude constraint to update it. The below examples show how to change an ellipsoid constraint orientation by changing the bone roll (CTRL-R) and the rest pose orientation.
 
     <figure markdown>
-      ![Video](../Resources/Vids/gif16.gif)
+      ![Video](../Resources/Vids/BoneChainEllipsoidAxis.gif)
     </figure>
 
     The ellipsoid's axes are the bones' X and Z axes. Displaying the bone axes for the armature can help getting the desired orientation.
 
     <figure markdown>
-      ![Video](../Resources/Vids/gif17.gif)
+      ![Video](../Resources/Vids/BoneChainAmplitudeBoneAxis.gif)
     </figure>
 
 # Parameters

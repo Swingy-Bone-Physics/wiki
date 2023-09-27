@@ -10,7 +10,7 @@ Once enabled, an arrow will be displayed in the viewport, representing the direc
 
 <div align="center">
 <video width="800" height="480" controls>
-  <source src="../../Resources/Vids/vid3.mp4" type="video/mp4">
+  <source src="../../Resources/Vids/BoneChainWindSimulation.mp4" type="video/mp4">
 </video>
 </div>
 

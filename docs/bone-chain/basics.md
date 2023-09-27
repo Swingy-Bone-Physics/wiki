@@ -12,7 +12,7 @@ The requirements for the bones that will be part of a chain are the following:
 * They must not have more than one child.
 
 <figure markdown>
-  ![Image](../Resources/Images/img7.png)
+  ![Image](../Resources/Images/BoneChainConditions.png)
 </figure>
 
 If these requirements are all met, a bone chain can be created by following these steps:
@@ -28,13 +28,13 @@ If these requirements are all met, a bone chain can be created by following thes
 If everything worked fine, the bones' shapes should have changed to spheres, representing their collision radius. Otherwise, an error message will be displayed, showing what went wrong.
 
 <figure markdown>
-  ![Video](../Resources/Vids/gif0.gif)
+  ![Video](../Resources/Vids/CreateBoneChain.gif)
 </figure>
 
 Once created, the bone chain will be added to the chain list and its bones will be displayed on the right. The color scheme used for these can also be changed using the "Bone Chains Colors" parameter as shown below. You can also rename the chain in the list to something more intuitive. For more information about the physics parameters located below, please refer to the [parameters](parameters.md) section.
 
 <figure markdown>
-  ![Video](../Resources/Vids/gif1.gif)
+  ![Video](../Resources/Vids/BoneChainColor.gif)
 </figure>
 
 

@@ -1,7 +1,7 @@
 The operators can be found below the bone chain list. 
 
 <figure markdown>
-  ![Image](../Resources/Images/img8.png)
+  ![Image](../Resources/Images/BoneChainOperators.png)
 </figure>
 
 ## Create Bone Chain

@@ -2,7 +2,7 @@ Colliders are simple volumes, attached to bones, that collide with the bone chai
 
 <div align="center">
 <video width="800" height="480" controls>
-  <source src="../../Resources/Vids/vid2.mp4" type="video/mp4">
+  <source src="../../Resources/Vids/BoneChainColliding.mp4" type="video/mp4">
 </video>
 </div>
 
@@ -22,7 +22,7 @@ If these requirements are all met, a collider can simply be created by following
 * Select the bones you want to add colliders to, click on "Add Collider", then choose the colliders' shape and confirm.
 
 <figure markdown>
-  ![Videos](../Resources/Vids/gif4.gif){ width="800" }
+  ![Videos](../Resources/Vids/CreateCollider.gif){ width="800" }
 </figure>
 
 If everything worked fine, the colliders will be added in the viewport, with a default scale based on their parents. Otherwise, an error message will be displayed, showing what went wrong. 
@@ -30,5 +30,5 @@ If everything worked fine, the colliders will be added in the viewport, with a d
 Once created, the colliders will be added to the collider list. You can freely offset them from their parent bone. Their color scheme can also be changed using the "Colliders Colors" parameter.
 
 <figure markdown>
-  ![Videos](../Resources/Vids/gif5.gif){ width="800" }
+  ![Videos](../Resources/Vids/CreateSeveralColliders.gif){ width="800" }
 </figure>

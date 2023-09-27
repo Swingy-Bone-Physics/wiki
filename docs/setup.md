@@ -26,5 +26,5 @@ If everything worked you should now be able to see a "Swingy Bone" tab in the 3D
 If everything worked you should now be able to see a "Swingy Bone" tab in the 3D View's sidebar (press the N key to bring up the latter).
 
 <figure markdown>
-  ![Image](Resources/Images/img1.png){ width="800" }
+  ![Image](Resources/Images/AddonTab.png){ width="800" }
 </figure>

@@ -7,7 +7,7 @@ A wind curve has two more parameters than the parameter curve: Amplitude and Per
 For example, consider the curve below:
 
 <figure markdown>
-  ![Image](../Resources/Images/img5.png)
+  ![Image](../Resources/Images/CurveAmplitude0.png)
 </figure>
 
 It has 3 points, an amplitude of 5 and a period of 120 frames. The "real" values for the 3 points are the following:
@@ -20,7 +20,7 @@ It has 3 points, an amplitude of 5 and a period of 120 frames. The "real" values
   Y = 1 * 5 = 5
 
 <figure markdown>
-  ![Image](../Resources/Images/img6.png)
+  ![Image](../Resources/Images/CurveAmplitude1.png)
 </figure>
 
 The value is first set at 5, decreases until it reaches -5 and goes back to 5. All of this in 120 frames, as defined by the period. If we had set a period of 60 frames, it would have taken half the time to do the exact same. 
@@ -29,7 +29,7 @@ Once the end of the curve is reached, it loops back to the beginning, so if we h
 
 <div align="center">
 <video width="800" height="480" controls>
-  <source src="../../Resources/Vids/vid0.mp4" type="video/mp4">
+  <source src="../../Resources/Vids/WindCurveResult.mp4" type="video/mp4">
 </video>
 </div>
 
@@ -38,7 +38,7 @@ Once the end of the curve is reached, it loops back to the beginning, so if we h
 Once you have created a curve, you can have the wind components use it by setting it in the corresponding fields. The fixed values above will be overriden accordingly.
 
 <figure markdown>
-  ![Videos](../Resources/Vids/gif14.gif)
+  ![Videos](../Resources/Vids/WindCurve.gif)
 </figure>
 
 

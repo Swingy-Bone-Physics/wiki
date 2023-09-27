@@ -1,7 +1,7 @@
 The physics parameters can be found below the bone chain operators, when a simulated bone is selected.
 
 <figure markdown>
-  ![Image](../Resources/Images/img9.png)
+  ![Image](../Resources/Images/BoneChainParameters.png)
 </figure>
 
 !!! info
@@ -13,7 +13,7 @@ The physics parameters can be found below the bone chain operators, when a simul
 The amount of angular velocity lost during movement. Between 0 (none) and 1 (full loss).
 
 <figure markdown>
-  ![Video](../Resources/Vids/gif8.gif){width="500"}
+  ![Video](../Resources/Vids/BoneChainDampingComparison.gif){width="500"}
 </figure>
 
 ## Drag Factor
@@ -21,7 +21,7 @@ The amount of angular velocity lost during movement. Between 0 (none) and 1 (ful
 The amount of opposition to movement when translated. Between 0 (none) and 1 (full opposition).
 
 <figure markdown>
-  ![Video](../Resources/Vids/gif9.gif){width="500"}
+  ![Video](../Resources/Vids/BoneChainDragComparison.gif){width="500"}
 </figure>
 
 ## Stiffness
@@ -29,7 +29,7 @@ The amount of opposition to movement when translated. Between 0 (none) and 1 (fu
 The amount of pre-simulation pose to preserve. Between 0 (fully simulated) and 1 (not simulated).
 
 <figure markdown>
-  ![Video](../Resources/Vids/gif10.gif){width="500"}
+  ![Video](../Resources/Vids/BoneChainStiffnessComparison.gif){width="500"}
 </figure>
 
 ## Wind Factor
@@ -37,7 +37,7 @@ The amount of pre-simulation pose to preserve. Between 0 (fully simulated) and 1
 Wind influence factor. Between 0 (none) and 1 (full influence).
 
 <figure markdown>
-  ![Video](../Resources/Vids/gif11.gif){width="500"}
+  ![Video](../Resources/Vids/BoneChainWindFactorComparison.gif){width="500"}
 </figure>
 
 ## Gravity Factor
@@ -45,7 +45,7 @@ Wind influence factor. Between 0 (none) and 1 (full influence).
 The gravity influence factor. It can be negative to have bones "falling" in the opposite direction, which can be helpful to make floaty chains when combined with amplitude limits for example.
 
 <figure markdown>
-  ![Video](../Resources/Vids/gif12.gif){width="500"}
+  ![Video](../Resources/Vids/BoneChainGravityFactorComparison.gif){width="500"}
 </figure>
 
 ## Radius

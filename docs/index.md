@@ -4,7 +4,7 @@ An easy-to-use, artist friendly bone chain physics solver.
 
 <div align="center">
 <video width="800" height="480" controls>
-  <source src="Resources/Vids/vid4.mp4" type="video/mp4">
+  <source src="Resources/Vids/SwingyBonePhysicsAddon.mp4" type="video/mp4">
 </video>
 </div>
 

@@ -1,7 +1,7 @@
 The operators can be found below the collider list.
 
 <figure markdown>
-  ![Image](../Resources/Images/img10.png)
+  ![Image](../Resources/Images/ColliderOperators.png)
 </figure>
 
 ## Add Collider

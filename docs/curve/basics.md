@@ -3,7 +3,7 @@
 The curve editor enables you to create curves in order to fine-tune physics parameters and wind behavior faster and in a more intuitive way.
 
 <figure markdown>
-  ![Image](../Resources/Images/img4.PNG)
+  ![Image](../Resources/Images/CurveEditor.png)
 </figure>
 
 There are two different curve types: [parameter curves](./parameter.md) (for physics parameters) and [wind curves](./wind.md). When adding a new curve in the editor, you'll be prompted to choose its type.

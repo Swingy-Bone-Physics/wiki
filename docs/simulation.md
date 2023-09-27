@@ -2,7 +2,7 @@ After you created some bone chains, the simulation will happen automatically whe
 
 <div align="center">
 <video width="800" height="480" controls>
-  <source src="../Resources/Vids/vid1.mp4" type="video/mp4">
+  <source src="../Resources/Vids/BonePhysicsSimulationStart.mp4" type="video/mp4">
 </video>
 </div>
 
@@ -15,7 +15,7 @@ After you created some bone chains, the simulation will happen automatically whe
     **The gravity vector used by the simulation is the one defined in the scene settings.**
 
     <figure markdown>
-      ![Image](Resources/Images/img12.png)
+      ![Image](Resources/Images/GravitySettings.png)
     </figure>
 
 ## Performance tips
@@ -27,7 +27,7 @@ When working with complex models, the extra simulation computation may make the 
 Disabling autosmooth for the meshes can have a notable impact on the performance. You can find it under "Object Data Properties -> Normals -> Autosmooth". You can disable it for several meshes at once by selecting them then disabling it for the active mesh while holding the ALT key.
 
 <figure markdown>
-  ![Videos](Resources/Vids/gif2.gif){ width="800" }
+  ![Videos](Resources/Vids/AutoSmoothDisable.gif){ width="800" }
 </figure>
 
 ### Disable meshes
@@ -35,5 +35,5 @@ Disabling autosmooth for the meshes can have a notable impact on the performance
 Hiding meshes you don't need (with the H key or the eye icon in the outliner) doesn't stop Blender from taking them into account when animating. What you want instead is disabling them, using the outliner's icons.
 
 <figure markdown>
-  ![Videos](Resources/Vids/gif3.gif){ width="800" }
+  ![Videos](Resources/Vids/MeshDisable.gif){ width="800" }
 </figure>

@@ -1,7 +1,7 @@
 The collider parameters can be found below the operators, when a collider is selected.
 
 <figure markdown>
-  ![Image](../Resources/Images/img11.png)
+  ![Image](../Resources/Images/ColliderParameters.png)
 </figure>
 
 ## Parent 
