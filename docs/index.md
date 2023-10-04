@@ -12,7 +12,7 @@ An easy-to-use, artist friendly bone chain physics solver.
 
 # Features
 
-* One-click process to create bone chains.
+* One-click process to create simulated bone chains.
 * Several parameters to adjust the physics behaviour.
 * Curve editor for easier tuning.
 * Visual helpers in the 3D viewport for a faster workflow.
