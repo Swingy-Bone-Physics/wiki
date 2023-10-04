@@ -38,7 +38,7 @@ theme:
       primary: indigo
       accent: purple 
 nav:
-  - Home: 'index.md'
+  - Overview: 'index.md'
   - Addon Setup: 'setup.md'
   - Simulation/Performance tips: 'simulation.md'
   - Bone chain: 
