@@ -1,6 +1,6 @@
 # Swingy Bone Physics Addon
 
-An easy-to-use, artist friendly bone chain physics solver. 
+An easy-to-use, artist-friendly bone chain physics solver for Blender 3D! Add physically based animation to necklaces, bracelets, wires, accessories, hair, cloth or other items you want to move around in a few clicks!
 
 <div align="center">
 <video width="800" height="480" controls>
