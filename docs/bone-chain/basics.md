@@ -1,5 +1,9 @@
 A Bone Chain is a succession of connected bones that will be simulated using the addon's solver and the parameters set by the user.
 
+<figure markdown>
+  ![Video](../Resources/Vids/SwingyBoneCreate.gif)
+</figure>
+
 !!! warning
 
     **After you created a bone chain, do not rename its bones as it will break references. If you want to do so, delete the chain first, rename the bones then recreate it.**

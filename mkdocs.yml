@@ -40,7 +40,7 @@ theme:
 nav:
   - Overview: 'index.md'
   - Addon Setup: 'setup.md'
-  - Simulation/Performance tips: 'simulation.md'
+  - Quickstart: 'quickstart.md'  
   - Bone chain: 
     - Getting started: 'bone-chain/basics.md'
     - Operators: 'bone-chain/operators.md'
@@ -55,6 +55,8 @@ nav:
     - Getting started: 'curve/basics.md'
     - Parameter curves: 'curve/parameter.md'
     - Wind curves: 'curve/wind.md'
+  - Misc:
+    - Performance tips: 'performance.md'
 markdown_extensions:
   - admonition
   - pymdownx.details
