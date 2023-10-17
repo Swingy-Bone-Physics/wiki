@@ -7,7 +7,7 @@
 
 * Launch Blender, then go to "Edit" > "Preferences"
 * Switch to the Add-ons tab and click the "Install..." button at the top-right
-* Locate your SwingyBoneAddon.zip file and double click it.
+* Locate your SwingyBonePhysicsAddon.zip file and double click it.
 * Activate the addon by ticking the checkbox
 * Make sure that your preferences are saved (they should be by default)
 * Close the Preferences panel
