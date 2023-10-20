@@ -26,6 +26,8 @@ There are currently two constraint types available : Conic and Ellipsoidal. They
       ![Video](../Resources/Vids/BoneChainAmplitudeBoneAxis.gif)
     </figure>
 
+    To align several bones' rolls at once, you can refer to this link: [https://blender.stackexchange.com/a/203282](https://blender.stackexchange.com/a/203282).
+
 # Parameters
 
 ## Show Amplitude
