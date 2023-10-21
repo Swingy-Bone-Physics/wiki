@@ -6,9 +6,7 @@ Add physically based animation to hair, accessories, cloth, wires or other items
 
 !!! note
 
-    **Get it on [Gumroad](https://bit.ly/46Y5HnX)!**
-
-    **Get it on [Blender Market](https://bit.ly/45N5IKI)!**
+    **Available on [Gumroad](https://bit.ly/46Y5HnX) and [Blender Market](https://bit.ly/45N5IKI)!**
 
 <div align="center">
 <video width="800" height="480" controls>
