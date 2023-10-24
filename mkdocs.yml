@@ -57,6 +57,7 @@ nav:
     - Wind curves: 'curve/wind.md'
   - Misc:
     - Performance tips: 'performance.md'
+    - Changelog: 'changelog.md'
 markdown_extensions:
   - admonition
   - pymdownx.details
