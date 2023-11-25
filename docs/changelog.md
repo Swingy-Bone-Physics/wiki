@@ -1,3 +1,17 @@
+## Version 1.2
+
+### Update instructions
+
+* If you used a previous version, first install the new one by following the [updating instructions](./setup.md/#update).
+* After that, if you were on **version 1.0** before, you will have to **clear any collider or chain that you previously created using the "Clear All" operators** and recreate them. **Do not use any other operator before doing this or it may lead to some issues!**
+If you were on version 1.1, you don't need to do anything.
+
+### Changes
+
+* Support for Blender 4.0 has been added! 
+
+* Several bug fixes that happened when baking the chains' movement to keyframes.
+
 ## Version 1.1
 
 ### Update instructions
