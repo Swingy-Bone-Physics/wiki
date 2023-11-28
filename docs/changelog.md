@@ -1,10 +1,23 @@
+## Version 1.2.1
+
+### Update instructions
+
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions).
+
+### Changes
+
+* A new option to enable or disable the simulation for a given armature has been added.
+
+<figure markdown>
+  ![Images](./Resources/Images/EnableSimUpdatev121.png){ width="400" }
+</figure>
+
 ## Version 1.2
 
 ### Update instructions
 
 * If you used a previous version, first install the new one by following the [updating instructions](./setup.md/#update).
 * After that, if you were on **version 1.0** before, you will have to **clear any collider or chain that you previously created using the "Clear All" operators** and recreate them. **Do not use any other operator before doing this or it may lead to some issues!**
-If you were on version 1.1, you don't need to do anything.
 
 ### Changes
 
