@@ -28,9 +28,11 @@ The amount of opposition to movement when translated. Between 0 (none) and 1 (fu
 
 The amount of pre-simulation pose to preserve. Between 0 (fully simulated) and 1 (not simulated).
 
-<figure markdown>
-  ![Video](../Resources/Vids/BoneChainStiffnessComparison.gif){width="500"}
-</figure>
+<div align="center">
+<video controls>
+  <source src="../../Resources/Vids/1_3_0/StiffnessFixed.mp4" type="video/mp4">
+</video>
+</div>
 
 ## Wind Factor
 

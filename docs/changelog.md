@@ -1,3 +1,35 @@
+## Version 1.3.0
+
+### Update instructions
+
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions).
+
+### Changes
+
+* New icon to hide individual chains more easily
+
+<figure markdown>
+  ![Videos](Resources/Vids/1_3_0/HideSingleButton.gif){ width="800" }_
+</figure>
+
+* New icon to prevent specific chains from resetting when using the Reset All operator
+
+<figure markdown>
+  ![Videos](Resources/Vids/1_3_0/ResetSingleButton.gif){ width="800" }_
+</figure>
+
+* Better stiffness implementation: a force will now be applied to preserve the pre-simulation shape of the chain, not the one from the previous frame.
+
+<div align="center">
+<video controls>
+  <source src="../Resources/Vids/1_3_0/StiffnessFixed.mp4" type="video/mp4">
+</video>
+</div>
+
+* Support for projects with multiple view layers has been added.
+
+* The Reset All operator is now available in Object Mode too.
+
 ## Version 1.2.1
 
 ### Update instructions
