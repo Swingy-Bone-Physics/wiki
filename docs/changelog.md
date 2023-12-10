@@ -2,7 +2,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_2).
 
 ### Changes
 
@@ -34,7 +34,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_2).
 
 ### Changes
 
