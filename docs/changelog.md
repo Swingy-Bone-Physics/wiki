@@ -1,8 +1,30 @@
+## Version 1.4.0
+
+### Update instructions
+
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_3).
+
+### Changes
+
+* Fixed a bug giving wrong results when baking the simulation in a scene with several view layers.
+
+* An option to force the animation to play when rendering has been added. When enabled, it will allow the simulation to happen when scrubbing through the timeline.
+
+<figure markdown>
+  ![Images](./Resources/Images/1_4_0/force_anim.png){ width="400" }
+</figure>
+
+* A new operator has been added to allow linking/appending assets with swingy bone chains from different .blend files, check out [here](linking.md) for more information.
+
+<figure markdown>
+  ![Images](./Resources/Images/1_4_0/link_data.png){ width="400" }
+</figure>
+
 ## Version 1.3.0
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_2).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_3).
 
 ### Changes
 
@@ -34,7 +56,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_2).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_3).
 
 ### Changes
 
