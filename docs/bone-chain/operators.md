@@ -34,4 +34,5 @@ Hide/Unhide all the bone chains and associated amplitude shapes.
 
 ## Bake
 
-Bake the simulation to keyframes (using the viewport's playback range).
+Bake the simulation to keyframes (using the viewport's playback range). 
+If the playback mode is set to "frame dropping", the simulation will be played fully and the keyframes will be recorded to match the viewport view accordingly.

@@ -1,8 +1,26 @@
+## Version 1.5.0
+
+### Update instructions
+
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_4).
+
+### Changes
+
+* Fixed a bug that made collider parameters change at the same time when selected in the collider menu.
+
+* A new bake option has been added: if the playback mode is set to frame drop, the simulation will be played in the viewport and the keyframes recorded accordingly.
+
+* A new "add extra child" feature to control the last bone's rotation has been added. It will be deleted automatically when the chain is deleted/baked.
+
+<figure markdown>
+  ![Images](./Resources/Vids/1_5_0/extrachild.gif)
+</figure>
+
 ## Version 1.4.0
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_3).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_4).
 
 ### Changes
 
@@ -24,7 +42,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_3).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_4).
 
 ### Changes
 
@@ -56,7 +74,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_3).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_4).
 
 ### Changes
 
