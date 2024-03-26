@@ -1,8 +1,54 @@
+## Version 1.6.0
+
+### Update instructions
+
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_5).
+
+### Changes
+
+* Fixed a bug related to the extra child's rotation.
+
+* Multi bone selection has been added for the bone chain creation. The requirements are the same but the last bone can have more than one child.
+
+<div align="center">
+<video controls>
+  <source src="../Resources/Vids/1_6_0/multiSelect.mp4" type="video/mp4">
+</video>
+</div>
+
+* A new parameter save feature has been added. Bone parameters can now be saved and imported back.
+
+<figure markdown>
+  ![Images](./Resources/Images/1_6_0/paramSave.png){ width="400" }
+</figure>
+
+* Wind parameters have been exposed to the user for easier fine-tuning.
+
+<figure markdown>
+  ![Images](./Resources/Images/1_6_0/windParams.png){ width="400" }
+</figure>
+
+* A collision axe feature has been added to only move on the spherical collider's specific axe when colliding. 
+
+<div align="center">
+<video controls>
+  <source src="../Resources/Vids/1_6_0/colliderAxes.mp4" type="video/mp4">
+</video>
+</div>
+
+* A new operator has been added to keyframe parameters for a selection of bones.
+
+<figure markdown>
+  ![Images](./Resources/Images/1_6_0/keyframeParams.png){ width="400" }
+</figure>
+
+* The interface has been reworked a little.
+
 ## Version 1.5.0
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_4).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_5).
 
 ### Changes
 
@@ -20,7 +66,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_4).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_5).
 
 ### Changes
 
@@ -42,7 +88,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_4).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_5).
 
 ### Changes
 
@@ -74,7 +120,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_4).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_5).
 
 ### Changes
 
