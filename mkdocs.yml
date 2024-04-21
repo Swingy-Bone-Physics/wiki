@@ -41,21 +41,27 @@ nav:
   - Overview: 'index.md'
   - Addon Setup: 'setup.md'
   - Quickstart: 'quickstart.md'  
-  - Bone chain: 
+  - Bone chains: 
     - Getting started: 'bone-chain/basics.md'
     - Operators: 'bone-chain/operators.md'
     - Parameters: 'bone-chain/parameters.md'
     - Amplitude limit: 'bone-chain/amplitude.md'
     - Wind: 'bone-chain/wind.md'
+    - Options: 'bone-chain/options.md'
   - Colliders: 
     - Getting started: 'collider/basics.md'
     - Operators: 'collider/operators.md'
     - Parameters: 'collider/parameters.md'
+  - Bone links (Beta): 
+    - Getting started: 'blink/basics.md'
+    - Operators: 'blink/operators.md'
+    - Parameters: 'blink/parameters.md'
   - Curves:
     - Getting started: 'curve/basics.md'
     - Parameter curves: 'curve/parameter.md'
     - Wind curves: 'curve/wind.md'
   - Misc:
+    - Linking/Appending: 'linking.md'
     - Performance tips: 'performance.md'
     - Changelog: 'changelog.md'
 markdown_extensions:

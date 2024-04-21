@@ -1,8 +1,22 @@
+## Version 1.7.0
+
+### Update instructions
+
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_6).
+
+### Changes
+
+* The beta version of [bone linking](./blink/basics.md) has been added.
+
+* Fixed a bug that made the extra child's keyframe not being cleaned up after baking.
+
+* New [options](./bone-chain/options.md) have been added
+
 ## Version 1.6.0
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_5).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_6).
 
 ### Changes
 
@@ -48,7 +62,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_5).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_6).
 
 ### Changes
 
@@ -66,7 +80,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_5).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_6).
 
 ### Changes
 
@@ -88,7 +102,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_5).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_6).
 
 ### Changes
 
@@ -120,7 +134,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_5).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_6).
 
 ### Changes
 
