@@ -23,7 +23,7 @@ In this tutorial, you will learn how to link/append an asset with bone chains fr
 - Finally, fill the bone chains tab by clicking on "Link Data" while in **pose mode** and select the .blend file you got the asset from.
 
 <figure markdown>
-  ![Images](./Resources/Images/1_4_0/link_data.png){ width="400" }
+  ![Images](./Resources/Images/1_7_0/linkappend.png){ width="700" }
 </figure>
 
 - That's it!
