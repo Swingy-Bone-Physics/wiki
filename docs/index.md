@@ -6,7 +6,7 @@ Add physically based animation to hair, accessories, cloth, wires or other items
 
 !!! note
 
-    **Available on [Gumroad](https://bit.ly/46Y5HnX) and [Blender Market](https://bit.ly/45N5IKI)!**
+    **Available on [Gumroad](https://bit.ly/46Y5HnX), [Fairmarket.land](https://fairmarket.land/product/swingy-bone-physics) and [Blender Market](https://bit.ly/45N5IKI)!**
 
 <div align="center">
 <video width="800" height="480" controls>
