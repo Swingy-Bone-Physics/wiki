@@ -19,6 +19,9 @@ If everything worked you should now be able to see a "Swingy Bone" tab in the 3D
 * Launch Blender, then go to "Edit" > "Preferences"
 * Switch to the Add-ons tab and locate your current install of the addon (by typing "swingy" in the search bar on the top right for example)
 * Unfold the tab, deactivate the addon by unticking the checkbox. Finally click on the "Remove" button.
+!!! warning
+
+    **It is recommend to close and reopen Blender at this step**
 * Now that the previous version has been uninstalled, click on the "Install..." button at the top-right
 * Locate your updated SwingyBoneAddon.zip file and double click on it.
 * Activate the addon by ticking the checkbox

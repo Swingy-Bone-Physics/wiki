@@ -1,14 +1,98 @@
+## Version 2.0
+
+### Update instructions
+
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_11).
+
+* To update your bone chains from an earlier than 1.9.0 version, simply click on the new "refresh" operator at the top.
+
+### Changes
+
+* ![type:video](https://www.youtube.com/embed/s7shyTQzF5w)
+
+* The beta version of [driver bones](./driver/basics.md) has been added.
+
+## Version 1.9.2
+
+### Update instructions
+
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_11).
+
+* To update your bone chains from an earlier than 1.9.0 version, simply click on the new "refresh" operator at the top.
+
+### Changes
+
+* Fix a small bug that made some chains have an initial impulse/jitter after using the reset operator
+
+## Version 1.9.1
+
+### Update instructions
+
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_11).
+
+* To update your bone chains from an earlier than 1.9.0 version, simply click on the new "refresh" operator at the top.
+
+### Changes
+
+* Added a placeholder panel to prevent confusion when no armature is selected and nothing is displayed
+
+* Added an option to collide with other armatures
+
+* Fix a bug when keyframe failed to be deleted when creating a chain
+
+## Version 1.9.0
+
+### Update instructions
+
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_11).
+
+* To update your bone chains from a previous version, simply click on the new "refresh" operator at the top.
+
+### Changes
+
+* [Video showcase](https://www.youtube.com/watch?v=RS7XOAv-SFs)
+
+* Blender 5.0 support
+
+* Linking/Appending has been completely reworked and simplified
+
+* Bone chains and colliders are now stored on their respective armatures
+
+* More robust handling of bone being renamed, chains being copy pasted etc.
+
+* Added the ability to temporarily make bone chains not selectable
+
+* Added the ability to switch back and forth between the sphere representation and the base one for the bones
+
+## Version 1.8.0
+
+### Update instructions
+
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_11).
+
+### Changes
+
+* [Video showcase](https://www.youtube.com/watch?v=1Mmm5jm_eug)
+
+* Added the ability to create bone links between all nodes of different chains in a click.
+
+* Added a new color showing which links are "broken" due to other constraints
+
+* Added a new friction parameter to make chains slide more or less along colliders
+
+* Added the ability for bone chains to collide between themselves
+
 ## Version 1.7.0
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_6).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_11).
 
 ### Changes
 
 * The beta version of [bone linking](./blink/basics.md) has been added.
 
-* Fixed a bug that made the extra child's keyframe not being cleaned up after baking.
+* Fixed a bug that made the extra child's keyframes not being cleaned up after baking.
 
 * New [options](./bone-chain/options.md) have been added
 
@@ -16,7 +100,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_6).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_11).
 
 ### Changes
 
@@ -62,7 +146,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_6).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_11).
 
 ### Changes
 
@@ -80,7 +164,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_6).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_11).
 
 ### Changes
 
@@ -102,7 +186,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_6).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_11).
 
 ### Changes
 
@@ -134,7 +218,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_6).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_11).
 
 ### Changes
 

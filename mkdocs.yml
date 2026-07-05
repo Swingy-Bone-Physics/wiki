@@ -24,19 +24,20 @@ theme:
       example: octicons/beaker-16
       quote: octicons/quote-16
   language: en
-  palette:    
+  palette:
     - scheme: slate
+      primary: blue grey
+      accent: orange
       toggle:
-        icon: material/toggle-switch-off-outline 
+        icon: material/weather-sunny
         name: Switch to light mode
-      primary: indigo
-      accent: purple 
+
     - scheme: default
+      primary: blue grey
+      accent: orange
       toggle:
-        icon: material/toggle-switch 
-        name: Switch to dark mode    
-      primary: indigo
-      accent: purple 
+        icon: material/weather-night
+        name: Switch to dark mode
 nav:
   - Overview: 'index.md'
   - Addon Setup: 'setup.md'
@@ -52,10 +53,14 @@ nav:
     - Getting started: 'collider/basics.md'
     - Operators: 'collider/operators.md'
     - Parameters: 'collider/parameters.md'
-  - Bone links (Beta): 
+  - Bone links: 
     - Getting started: 'blink/basics.md'
     - Operators: 'blink/operators.md'
     - Parameters: 'blink/parameters.md'
+  - Driver bones (Beta): 
+    - Getting started: 'driver/basics.md'
+    - Operators: 'driver/operators.md'
+    - Parameters: 'driver/parameters.md'
   - Curves:
     - Getting started: 'curve/basics.md'
     - Parameter curves: 'curve/parameter.md'
@@ -73,4 +78,5 @@ markdown_extensions:
 plugins:
   - glightbox
   - search
+  - mkdocs-video
 

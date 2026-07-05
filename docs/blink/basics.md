@@ -1,8 +1,5 @@
 Bone links are a feature introduced in version 1.7.0 that enables users to define links between bones from different bone chains. It is designed to maintain the distance between them and help prevent the underlying meshes from deforming unnaturally.
 
-!!! warning
-
-    **This feature is still under development, your feedback is very welcome!**
 
 <div align="center">
 <video width="800" height="480" controls>

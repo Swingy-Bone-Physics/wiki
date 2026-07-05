@@ -14,7 +14,7 @@ Select all the colliders in the viewport.
 
 ## Delete Collider
 
-Delete collider currently selected in the collider list.
+Delete the collider currently selected in the collider list.
 
 ## Clear All 
 
