@@ -1,8 +1,34 @@
+## Version 2.0.2
+
+### Update instructions
+
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_13).
+
+* To update your bone chains from an earlier than 1.9.0 version, simply click on the new "refresh" operator at the top.
+
+### Changes
+
+* Blender 5.2 LTS support
+
+* Display a warning when adding colliders on an armature with no scale applied.
+
+## Version 2.0.1
+
+### Update instructions
+
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_13).
+
+* To update your bone chains from an earlier than 1.9.0 version, simply click on the new "refresh" operator at the top.
+
+### Changes
+
+* Fix a bug that occurred when using local space for a driver with the sphere dead zone shape.
+
 ## Version 2.0
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_11).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_13).
 
 * To update your bone chains from an earlier than 1.9.0 version, simply click on the new "refresh" operator at the top.
 
@@ -16,7 +42,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_11).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_13).
 
 * To update your bone chains from an earlier than 1.9.0 version, simply click on the new "refresh" operator at the top.
 
@@ -28,7 +54,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_11).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_13).
 
 * To update your bone chains from an earlier than 1.9.0 version, simply click on the new "refresh" operator at the top.
 
@@ -44,7 +70,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_11).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_13).
 
 * To update your bone chains from a previous version, simply click on the new "refresh" operator at the top.
 
@@ -68,7 +94,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_11).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_13).
 
 ### Changes
 
@@ -86,7 +112,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_11).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_13).
 
 ### Changes
 
@@ -100,7 +126,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_11).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_13).
 
 ### Changes
 
@@ -146,7 +172,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_11).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_13).
 
 ### Changes
 
@@ -164,7 +190,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_11).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_13).
 
 ### Changes
 
@@ -186,7 +212,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_11).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_13).
 
 ### Changes
 
@@ -218,7 +244,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_11).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_13).
 
 ### Changes
 
