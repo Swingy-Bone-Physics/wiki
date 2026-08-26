@@ -1,8 +1,20 @@
+## Version 2.0.3
+
+### Update instructions
+
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_14).
+
+* To update your bone chains from an earlier than 1.9.0 version, simply click on the new "refresh" operator at the top.
+
+### Changes
+
+* Fix a crash that occured when clearing the chains after baking under specific conditions.
+
 ## Version 2.0.2
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_13).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_14).
 
 * To update your bone chains from an earlier than 1.9.0 version, simply click on the new "refresh" operator at the top.
 
@@ -16,7 +28,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_13).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_14).
 
 * To update your bone chains from an earlier than 1.9.0 version, simply click on the new "refresh" operator at the top.
 
@@ -28,7 +40,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_13).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_14).
 
 * To update your bone chains from an earlier than 1.9.0 version, simply click on the new "refresh" operator at the top.
 
@@ -42,7 +54,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_13).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_14).
 
 * To update your bone chains from an earlier than 1.9.0 version, simply click on the new "refresh" operator at the top.
 
@@ -54,7 +66,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_13).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_14).
 
 * To update your bone chains from an earlier than 1.9.0 version, simply click on the new "refresh" operator at the top.
 
@@ -70,7 +82,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_13).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_14).
 
 * To update your bone chains from a previous version, simply click on the new "refresh" operator at the top.
 
@@ -94,7 +106,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_13).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_14).
 
 ### Changes
 
@@ -112,7 +124,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_13).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_14).
 
 ### Changes
 
@@ -126,7 +138,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_13).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_14).
 
 ### Changes
 
@@ -172,7 +184,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_13).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_14).
 
 ### Changes
 
@@ -190,7 +202,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_13).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_14).
 
 ### Changes
 
@@ -212,7 +224,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_13).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_14).
 
 ### Changes
 
@@ -244,7 +256,7 @@
 
 ### Update instructions
 
-* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_13).
+* The update instructions are the same as the [version 1.2.0 instructions](#update-instructions_14).
 
 ### Changes
 
